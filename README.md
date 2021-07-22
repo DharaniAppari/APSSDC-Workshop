@@ -1,9 +1,9 @@
 ### version control system (vcs)
 
-+It will track or record the changes made to a file or folder
++ It will track or record the changes that made to a folder or file
 
- + centralised vcs
-  + github
+  + centralised vcs
+     + github
 
- + Distributed vcs
-  + git,mercurial
+  + distributed vcs
+     + git,mercurial   
